@@ -1,0 +1,4 @@
+[map "8e03c8e4-096d-3cc7-b869-e63a0dd86a87"]
+	object = e29cc6782243111f08d8bc4ad17b3a8b935f71a4
+	path = test_library
+	type = expand module
